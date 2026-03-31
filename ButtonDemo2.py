@@ -18,3 +18,4 @@ if click1:
     st.write("你按了Button1")
 if click2:
     st.write("你按了Button2")
+        
